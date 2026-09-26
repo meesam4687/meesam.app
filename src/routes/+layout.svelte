@@ -23,7 +23,7 @@
 	<meta name="keywords" content="meesam4687 meesam 4687 meesam_4687 meesam3379 meesam 3379 meesam_3379" />
 	<link rel="preload" href={borken} as="image" />
 	<link rel="preload" href={hitsound} as="audio" type="audio/ogg" />
-	<link rel="canonical" href="https://www.meesam.app" />
+	<link rel="canonical" href="https://www.meesam.app/" />
 </svelte:head>
 
 <div class="app-layout">
